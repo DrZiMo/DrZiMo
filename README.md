@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Dr. ZiMo.<br>- 👀 I’m interested in Web Development.<br>- 🌱 I’m a full stuck web developer.<br>- 📫 Feel free to reach out: zuhaibproo@gmail.com.
+- 👋 Hi, I’m Dr. ZiMo.<br>- 👀 I’m interested in Web Development.<br>- 🌱 I’m a full stuck web developer.<br>- 📫 Feel free to reach out: zuhaibproo@gmail.com. <br><br>https://linktr.ee/zuhaibpro
 
 
 # 💻 Tech Stack:
